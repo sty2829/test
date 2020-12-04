@@ -12,8 +12,7 @@ public class SortTest {
 		ages[2] = ages[1];
 		ages[1] = ages[0];
 		ages[0] = tmp;
-		
-		
+				
 		for(int i=0; i<ages.length; i++) {
 			System.out.println(ages[i]);
 		}
