@@ -17,6 +17,10 @@ public class FindNum {
 			}
 		}
 		
+		for(int n : nums) {
+			System.out.println(n);
+		}
+		
 		
 	}
 }
