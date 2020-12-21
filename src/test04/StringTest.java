@@ -19,6 +19,5 @@ public class StringTest {
 		String str = "가나다라마바사";
 		int length = str.length(); 
 		System.out.println(length);
-		
 	}
 }
