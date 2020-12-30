@@ -13,6 +13,10 @@ public class ListTest {
 		
 		List<String> strList = new ArrayList<String>();
 		
-		strList.get(0);
+		
+		String str = "1";
+		String str2 = "2";
+		String str1 = new String("2");
+		System.out.println(str2==str);
 	}
 }
